@@ -6,7 +6,7 @@
     <title>Weston - Our Robot on mBot</title>
     <style>
         body {
-            background-color: 486AØ;
+            background-color: blue;
             font-family: monospace;
             color: white;
             text-align: center;
