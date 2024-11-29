@@ -31,11 +31,6 @@
             margin-top: 20px;
             padding: 20px;
         }
-        .content img {
-            float: right;
-            width: 150px;
-            height: auto;
-        }
         footer {
             margin-top: 40px;
         }
