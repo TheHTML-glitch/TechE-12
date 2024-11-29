@@ -6,7 +6,7 @@
     <title>Weston - Our Robot on mBot</title>
     <style>
         body {
-            background-color: blue;
+            background-color: orange;
             font-family: monospace;
             color: white;
             text-align: center;
@@ -59,7 +59,7 @@
 
         <!-- Detailed information on ploughing -->
         <h2>Ploughing Power</h2>
-        <p>Weston is designed to perform efficient ploughing tasks. It can flatten and prepare various types of soil, making it easier to plant crops or prepare land for further agricultural processes. The ploughing feature helps in soil aeration, which improves its texture and fertility. By breaking up compacted layers of soil, Weston ensures better water absorption and root growth, leading to healthier crops.</p>
+<p>Weston is designed to perform efficient ploughing tasks. It can flatten and prepare various types of soil, making it easier to plant crops or prepare land for further agricultural processes. The ploughing feature helps in soil aeration, which improves its texture and fertility. By breaking up compacted layers of soil, Weston ensures better water absorption and root growth, leading to healthier crops.</p>
 
         <!-- Detailed information on CO2 detection -->
         <h2>CO2 Detection</h2>
